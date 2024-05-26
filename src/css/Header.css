@@ -1,0 +1,14 @@
+.header {
+    width: 100%;
+    height: 70px;
+    background-color: rgb(29, 29, 70);
+
+}
+
+.title {
+    color: rgb(214, 208, 208);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 25px 10px;
+}

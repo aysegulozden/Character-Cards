@@ -1,0 +1,40 @@
+.karakter-main {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.Karakter {
+    margin: 5px;
+    width: 500px;
+    height: 700px;
+    border: 3px solid lightgray;
+    border-radius: 20px;
+
+}
+
+.karakter-title {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+
+}
+
+.karakter-desc {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    align-items: center;
+    color: rgb(40, 40, 139);
+}
+
+.karakter-img {
+    align-items: center;
+}
+
+.karakter-link {
+    font-size: 20px;
+    text-decoration: none;
+    color: red;
+}
